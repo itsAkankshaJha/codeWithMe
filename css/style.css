@@ -1,0 +1,100 @@
+.myrows{
+    border: 3px solid green;
+    padding: 5px ;
+      }
+.mycols{
+    border : 5px solid red ;    
+    
+    background-color:cornsilk ;
+}
+.mycontainer{
+    background-color : aqua;
+    border : 3px solid red ;
+    font-weight: 700;
+}
+#topheader{
+    background-color : ghostwhite;
+    border-bottom: 1px solid silver ;
+    padding : 10px;
+
+} 
+#topheader a{
+    color:black;
+    font-weight: 600;
+    font-size: 0.89rem;
+}
+.container-fluid{
+    padding-left: 0px;
+    padding-right: 0px;
+    color: blanchedalmond;
+    
+} 
+#fullfooter{
+    background-color:#1abc9c;
+   /* bottom:0;
+    position: absolute;
+    width: 100%;*/
+}
+.top_footer{
+    color:#182C61;
+    font-weight: 600;
+   /* bottom:0;
+    position: absolute;*/
+}
+.top_footer h2{
+    color:blanchedalmond;
+    font-size: 35px;
+    font-family:cursive
+}
+.bottom-footer p{
+    color:ghostwhite;
+
+}
+.bottom-footer{
+    background-color:#09163a;
+}
+
+.top{
+    background-color:#0652DD;
+    color:ghostwhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.quality-img{
+    width:250px
+
+}
+.requirements-section{
+    background-color:#182C61;
+    color:ghostwhite
+    
+}
+
+.homenews-letter{
+    background-color: #182C61 ;
+    color:ghostwhite
+    
+}
+.homenews-letter .form-control{
+   height: 50px;
+   border-color: transparent ;
+   border-radius: 20px 0 0 20px;
+}
+.homenews-letter .btn{
+    min-height: 50px;
+    border-radius: 0 20px 20px 0;
+    color:ghostwhite;
+    background-color:#0652DD ;
+}
+/*----------------------END OF HOMEPAGE------------------------------------------------------/
+/* -----------------------START OF ABOUT US PAGE------------------------------------------------------/
+/*  breadcrumb section*/
+.breadcrumb-section 
+{
+    background-color:gainsboro;}
+/*------START OF CONTACT US PAGE -------*/
+
+.Contactus p{
+    font-weight: 600;
+    
+}
+
