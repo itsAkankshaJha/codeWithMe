@@ -29,6 +29,10 @@
     color: blanchedalmond;
     
 } 
+.middle{
+    color:black
+}
+
 #fullfooter{
     background-color:#1abc9c;
    /* bottom:0;
@@ -60,7 +64,7 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .quality-img{
-    width:250px
+    width:120 px
 
 }
 .requirements-section{
